@@ -1,4 +1,4 @@
-Purpose of the Script: Correlaties.enzo
+Purpose of the Script: Correlaties_enzo.py
 
 This Python script was developed to preprocess, merge and analyze data from the team flow study. Specifically, it combines self-reported Team Flow Monitor scores with observed behavioral indicators and calculates bootstrapped Spearman correlations to test exploratory hypotheses.
 
